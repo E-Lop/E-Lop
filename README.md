@@ -20,9 +20,9 @@ Web app to discover which fruits and vegetables are in season in Italy, month by
 
 ## Tech Stack
 
-**Frontend:** React, TypeScript, Tailwind CSS, Shadcn UI, Zustand, TanStack Query
+**Frontend:** React, Angular, Vue, TypeScript, JavaScript, Tailwind CSS, Shadcn UI
 
-**Backend:** Supabase (PostgreSQL, Auth, Storage, Realtime, Edge Functions)
+**Backend:** Supabase, Laravel, PHP, MySQL, PostgreSQL
 
 **Tools:** Vite, Git, Netlify, Figma
 
